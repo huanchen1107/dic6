@@ -1,0 +1,11 @@
+{
+  "name": "dic6-web-app",
+  "version": "1.0.0",
+  "description": "A simple web application with agentic handover scripts",
+  "scripts": {
+    "dev:start": "bash startup.sh",
+    "dev:ending": "bash ending.sh"
+  },
+  "author": "huanchen1107",
+  "license": "MIT"
+}
